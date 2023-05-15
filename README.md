@@ -1,3 +1,5 @@
+<h1 align='center'>Chris Wisniewski</h1>
+
 ### Hi there 👋
 
 <!--
