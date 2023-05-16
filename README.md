@@ -1,13 +1,13 @@
-### Hi there 👋
-### My name is Chris Wisniewski, and I am a Junior Developer from London, UK 👾
+## Hi there 👋
+## My name is Chris Wisniewski, and I am a Junior Developer from London, UK 👾
 
 
-### Here are some of my latest projects:
+# Here are some of my latest projects:
 - [Pokedex](https://github.com/cherrydub/fe-react-data-visualisation)
 - [NC Games](https://github.com/cherrydub/nc-games)
 - [BlockList](https://github.com/git-gremlins/blocklist)
 
-### You can connect with me below:
+# You can connect with me below:
 - [CV](https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf)
 - [Linkedin](https://www.linkedin.com/in/wisniewskichris/)
 
