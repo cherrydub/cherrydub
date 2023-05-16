@@ -1,13 +1,9 @@
-#Chris Wisniewski
-######London UK
-yep yep testing
-
-
-test again
-
-
-
 ### Hi there 👋
+##My name is Chris Wisniewski, and I am a Junior Developer from London, UK 👾
+
+[pokedex](https://github.com/cherrydub/fe-react-data-visualisation)
+[NC Games](https://github.com/cherrydub/nc-games)
+[BlockList](https://github.com/git-gremlins/blocklist)
 
 <!--
 **cherrydub/cherrydub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
