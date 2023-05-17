@@ -3,7 +3,7 @@
 ## Hi there 👋
 ## My name is Chris Wisniewski, a Junior Developer from London, UK 👾
 
-#### I have recently graduated from NorthCoders Bootcamp <img src='https://cbcourseproviders.s3.eu-west-2.amazonaws.com/North-coders.png' width='30px' height ='30px'/>
+#### I have recently graduated from NorthCoders Bootcamp <a href='https://northcoders.com/'><img src='https://cbcourseproviders.s3.eu-west-2.amazonaws.com/North-coders.png' width='30px' height ='30px'/></a>
 - The bootcamp was an intense 13-week journey that was compiled of Javascript Fundamentals, Backend/Database, Frontend, ending with a final group project.
 - The course had an amazing curriculum where I learned most of the tech stack, the final project helped me learn a few additional frameworks, Flutter in particular which was really great alternative to React Native
 - After graduating, I am very confident and excited for my future career in Web Development
