@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Chris Wisniewski, and I am a Junior Developer from London, UK 👾
+## My name is Chris Wisniewski, a Junior Developer from London, UK 👾
 
 
 #### Here are some of my latest projects:
