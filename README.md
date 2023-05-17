@@ -1,5 +1,12 @@
+
+
 ## Hi there 👋
 ## My name is Chris Wisniewski, a Junior Developer from London, UK 👾
+
+#### I have recently graduated from NorthCoders Bootcamp <img src='https://cbcourseproviders.s3.eu-west-2.amazonaws.com/North-coders.png' width='30px' height ='30px'/>
+- The bootcamp was an intense 13-week journey that was compiled of Javascript Fundamentals, Backend/Database, Frontend, ending with a final group project.
+- The course had an amazing curriculum where I learned most of the tech stack, the final project helped me learn a few additional frameworks, Flutter in particular which was really great alternative to React Native
+- After graduating, I am very confident and excited for my future career in Web Development
 
 
 #### Here are some of my latest projects:
@@ -8,11 +15,12 @@
 - [BlockList](https://github.com/git-gremlins/blocklist) ending my bootcamp with a group project. Since React Native surprising enough did not have any grid support, as well as NativeWind not supporting it, we decided to go with Flutter since it had great grid support and was just what we needed for a mobile app.
 
 ##### You can connect with me below:
-- [CV](https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf)
-- <img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='30px' height = '30px'/>[Linkedin](https://www.linkedin.com/in/wisniewskichris/)
+- 📄 [CV](https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf)
+- <a href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='30px' height = '30px'/> LinkedIn </a>
 
 ##### Skills / Tech Stack
-<img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' width='30px' height='30px' title='HTML'/><img src='https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667' width='30px' height='30px' title='CSS'/>
+<a href="https://github.com/cherrydub"><img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' width='30px' height='30px' title='HTML'/><img src='https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667' width='30px' height='30px' title='CSS'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' width='30px' height='30px' title='TailwindCSS'/>
 <img src='https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667' width='30px' height='30px' title='JavaScript'/>
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="30px" height="30px" title="Node" />
 <img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" width="30px" height="30px" title="Jest" />
@@ -23,7 +31,7 @@
 <img src='https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667' width='30px' height='30px' title='Flutter'/>
 <img src='https://camo.githubusercontent.com/ddab19cf066e0086c8766d3fd2f5cf0e17f41fbb728a1c2b475848ab9266f58a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646172742e737667' width='30px' height='30px' title='Dart'/>
 <img src='https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667' width='30px' height='30px' title='Docker'/>
-<img src='https://www.svgrepo.com/show/354200/postgresql.svg' width='30px' height='30px' title='PostgreSQL'/>
+<img src='https://www.svgrepo.com/show/354200/postgresql.svg' width='30px' height='30px' title='PostgreSQL'/></a>
 
 <!-- <img src='' width='30px' height = '30px'/> CSS
 <img src='' width='30px' height = '30px'/> CSS -->
