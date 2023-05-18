@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-## My name is Chris Wisniewski, a Junior Developer from London, UK 👾
+## I'm Chris Wisniewski, Junior Web Developer - London, UK 👾
 
 #### I have recently graduated from NorthCoders Bootcamp <a href='https://northcoders.com/'><img src='https://cbcourseproviders.s3.eu-west-2.amazonaws.com/North-coders.png' width='30px' height ='30px'/></a>
 - The bootcamp was an intense 13-week journey that was compiled of Javascript Fundamentals, Backend/Database, Frontend, ending with a final group project.
