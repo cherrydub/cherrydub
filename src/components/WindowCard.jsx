@@ -1,7 +1,8 @@
 import { useState } from "react";
+import Counter from "./windows/Counter";
+import Cv from "./windows/Cv";
 
 export default function WindowCard({ windowDisplayed, setWindowDisplayed }) {
-  const [count, setCount] = useState(0);
   const [windowSize, setWindowSize] = useState({
     width: 300,
     height: null,
@@ -22,6 +23,21 @@ export default function WindowCard({ windowDisplayed, setWindowDisplayed }) {
       setWindowIcon("Maximize");
     }
   };
+
+  let WindowContent = null;
+
+  switch (windowDisplayed) {
+    case "Counter":
+      WindowContent = Counter;
+
+      break;
+    case "Cv":
+      WindowContent = Cv;
+      break;
+    // Add cases for other windowDisplayed values as needed
+    default:
+      break;
+  }
 
   return (
     <>
@@ -44,15 +60,7 @@ export default function WindowCard({ windowDisplayed, setWindowDisplayed }) {
         </div>
 
         <div className="window-body">
-          <p style={{ textAlign: "center" }}>Current count: {count}</p>
-          <div
-            className="field-row"
-            style={{ justifyContent: "center", alignItems: "center" }}
-          >
-            <button onClick={() => setCount(count + 1)}>+</button>
-            <button onClick={() => setCount(count - 1)}>-</button>
-            <button onClick={() => setCount(0)}>0</button>
-          </div>
+          <WindowContent />
         </div>
       </div>
     </>
