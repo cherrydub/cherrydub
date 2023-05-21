@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function NavigationDesktop() {
+export default function NavigationDesktop({ setWindowDisplayed }) {
   return (
-    <div className="navigation-desktop absolute left-3 top-5 border  space-y-3">
+    <div className="navigation-desktop absolute left-3 top-5 border border-red-500 space-y-3">
       <div className="mb-2">
         <a href="">
           <img
@@ -23,6 +23,9 @@ export default function NavigationDesktop() {
       </div>
       <div className="mb-2">
         <img
+          onClick={() => {
+            setWindowDisplayed("Cv");
+          }}
           src="https://win98icons.alexmeub.com/icons/png/notepad-5.png"
           alt="notepad"
           width={"30px"}
@@ -44,6 +47,17 @@ export default function NavigationDesktop() {
           width={"30px"}
         />
         <p className="">Misc</p>
+      </div>
+      <div className="mb-2 bg-emerald-500">
+        <img
+          onClick={() => {
+            setWindowDisplayed("Counter");
+          }}
+          src="https://win98icons.alexmeub.com/icons/png/directory_closed-4.png"
+          alt="folder"
+          width={"30px"}
+        />
+        <p className="">Counter test</p>
       </div>
     </div>
   );
