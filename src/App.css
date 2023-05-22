@@ -1,16 +1,3 @@
-.cv-container {
-  position: relative;
-  padding-bottom: 100%; /* Sets the aspect ratio to 1:1 (square) */
-}
-
-.cv-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .navigation-desktop {
   font-size: 10px;
   text-align: left;
