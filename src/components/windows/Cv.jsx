@@ -1,61 +1,13 @@
 import React from "react";
-import cvPdf from "../../assets/cv.pdf";
+// import CvContent from "./CvContent.jsx";
+import cv from "../../assets/CV/cv.html";
 
 export default function Cv() {
   return (
     <>
-      <div className="border-2 border-green-500">
-        <embed src={cvPdf} type="application/pdf" width="100%" height="auto" />
+      <div className="bg-white">
+        <iframe src={cv} title="CV" width="600px" height="600px" />
       </div>
-      {/* <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div>
-      <div className="border-2 border-green-500">
-        <iframe
-          src={cvPdf}
-          title="CV"
-          className="w-full border border-red-700"
-        ></iframe>
-      </div> */}
     </>
   );
 }

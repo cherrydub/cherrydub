@@ -47,7 +47,13 @@ export default function WindowCard({ windowDisplayed, setWindowDisplayed }) {
     <>
       <div style={windowSize} className="window">
         <div className="title-bar">
-          <div className="title-bar-text">{windowDisplayed}</div>
+          <div className="title-bar-text flex">
+            <img
+              src="https://win98icons.alexmeub.com/icons/png/notepad-0.png"
+              alt=""
+            />{" "}
+            {windowDisplayed}
+          </div>
           <div className="title-bar-controls">
             <button className="bg-gray-300" aria-label="Minimize" />
             <button

@@ -27,7 +27,7 @@ export default function BottomStartBar() {
           <img src="" alt="" width="33px" />
         </button> */}
       </div>
-      <div className="flex-initial made-by">
+      <div className="flex-initial made-by flex items-center justify-center">
         {/* <button className="flex items-center justify-center">
           <img src="" alt="" width="33px" />
         </button> */}
