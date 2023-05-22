@@ -1,4 +1,6 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "dlist/assets/index-7fb659dc.html" }
+  ],
   "devCommand": "npm run dev"
 }
