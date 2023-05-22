@@ -4,10 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port $PORT",
+    "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "vercel-dev-helper": "vite --port $PORT",
+    "vdev": "vercel dev --local-config ./vercel-dev.json"
   },
   "dependencies": {
     "@fontsource/roboto": "^4.5.8",
