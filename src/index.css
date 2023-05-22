@@ -8,9 +8,11 @@
 
 body {
   /*bungee shade as font*/
-  background: #ffffff url("./assets/background2.png") repeat fixed;
+  /* background: #ffffff url("./assets/background2.png") repeat fixed; */
   background-size: 66px; /* Set the background image size to 50% of the container */
   font-size: 12px;
+  background: #008080;
+  font-family: Arial;
 }
 
 /* :root {
