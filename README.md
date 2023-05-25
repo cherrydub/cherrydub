@@ -10,15 +10,15 @@
 
 
 #### Here are some of my latest projects:
-- [SmartBrain](https://smartbrain.cherrydub.com) using Clarifi API to match faces from provided image URL's
-- [Pokedex](https://pokedex.cherrydub.com) for this project I was getting familiar with fetching API's, this one using the very popular PokeAPI, this was only a frontend project using React
-- [NC Games](https://ncgames.cherrydub.com) this project also uses React for the frontend, however Express.js was used for the backend, and PostgreSQL for the database. After frontend was finalised, I hosted this on ElephantSQL
-- [BlockList](https://github.com/git-gremlins/blocklist) ending my bootcamp with a group project. Since React Native surprising enough did not have any grid support, as well as NativeWind not supporting it, we decided to go with Flutter since it had great grid support and was just what we needed for a mobile app.
+- <a target="_blank" href='https://smartbrain.cherrydub.com'>SmartBrain </a> using Clarifi API to match faces from provided image URL's
+- <a target="_blank" href='https://pokedex.cherrydub.com'>Pokedex </a> for this project I was getting familiar with fetching API's, this one using the very popular PokeAPI, this was only a frontend project using React
+- <a target="_blank" href='https://ncgames.cherrydub.com'>NC Games </a> this project also uses React for the frontend, however Express.js was used for the backend, and PostgreSQL for the database. After frontend was finalised, I hosted this on ElephantSQL
+- <a target="_blank" href='https://github.com/git-gremlins/blocklist'>Blocklist </a> ending my bootcamp with a group project. Since React Native surprising enough did not have any grid support, as well as NativeWind not supporting it, we decided to go with Flutter since it had great grid support and was just what we needed for a mobile app
 
 ##### You can connect with me below:
-- 📄 [CV](https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf)
-- <a href='mailto:chriscoding@icloud.com'>📬 chriscoding@icloud.com </a>
-- <a href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='15px' height = '15px' target='_blank'/> LinkedIn </a>
+- <a target="_blank" href='https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf'>📄 CV </a>
+- <a target="_blank" href='mailto:chriscoding@icloud.com'>📬 chriscoding@icloud.com </a>
+- <a target="_blank" href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='15px' height = '15px'/> LinkedIn </a>
 
 ##### Skills / Tech Stack
 <a href="https://github.com/cherrydub"><img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' width='30px' height='30px' title='HTML'/><img src='https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667' width='30px' height='30px' title='CSS'/>
