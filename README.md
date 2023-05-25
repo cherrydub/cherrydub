@@ -18,7 +18,7 @@
 ##### You can connect with me below:
 - 📄 [CV](https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf)
 - <a href='mailto:chriscoding@icloud.com'>📬 chriscoding@icloud.com </a>
-- <a href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='15px' height = '15px'/> LinkedIn </a>
+- <a href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='15px' height = '15px' target='_blank'/> LinkedIn </a>
 
 ##### Skills / Tech Stack
 <a href="https://github.com/cherrydub"><img src='https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667' width='30px' height='30px' title='HTML'/><img src='https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667' width='30px' height='30px' title='CSS'/>
