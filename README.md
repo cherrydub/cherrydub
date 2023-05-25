@@ -10,13 +10,13 @@
 
 
 #### Here are some of my latest projects:
-- <a target="_blank" href='https://smartbrain.cherrydub.com'>SmartBrain </a> using Clarifi API to match faces from provided image URL's
+- <a href='https://smartbrain.cherrydub.com' target="_blank">SmartBrain </a> using Clarifi API to match faces from provided image URL's
 - <a target="_blank" href='https://pokedex.cherrydub.com'>Pokedex </a> for this project I was getting familiar with fetching API's, this one using the very popular PokeAPI, this was only a frontend project using React
 - <a target="_blank" href='https://ncgames.cherrydub.com'>NC Games </a> this project also uses React for the frontend, however Express.js was used for the backend, and PostgreSQL for the database. After frontend was finalised, I hosted this on ElephantSQL
 - <a target="_blank" href='https://github.com/git-gremlins/blocklist'>Blocklist </a> ending my bootcamp with a group project. Since React Native surprising enough did not have any grid support, as well as NativeWind not supporting it, we decided to go with Flutter since it had great grid support and was just what we needed for a mobile app
 
 ##### You can connect with me below:
-- <a target="_blank" href='https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf'>📄 CV </a>
+- <a href='https://github.com/cherrydub/cherrydub/blob/main/ChrisWisniewskiCV.pdf' target="_blank">📄 CV </a>
 - <a target="_blank" href='mailto:chriscoding@icloud.com'>📬 chriscoding@icloud.com </a>
 - <a target="_blank" href='https://www.linkedin.com/in/wisniewskichris/'><img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='15px' height = '15px'/> LinkedIn </a>
 
