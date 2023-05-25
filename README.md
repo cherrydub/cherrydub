@@ -10,8 +10,9 @@
 
 
 #### Here are some of my latest projects:
-- [Pokedex](https://pokedex-three-pink.vercel.app/) for this project I was getting familiar with fetching API's, this one using the very popular PokeAPI, this was only a frontend project using React
-- [NC Games](https://github.com/cherrydub/nc-games) this project also uses React for the frontend, however Express.js was used for the backend, and PostgreSQL for the database. After frontend was finalised, I hosted this on ElephantSQL
+- [SmartBrain](https://smartbrain.cherrydub.com) using Clarifi API to match faces from provided image URL's
+- [Pokedex](https://pokedex.cherrydub.com) for this project I was getting familiar with fetching API's, this one using the very popular PokeAPI, this was only a frontend project using React
+- [NC Games](https://ncgames.cherrydub.com) this project also uses React for the frontend, however Express.js was used for the backend, and PostgreSQL for the database. After frontend was finalised, I hosted this on ElephantSQL
 - [BlockList](https://github.com/git-gremlins/blocklist) ending my bootcamp with a group project. Since React Native surprising enough did not have any grid support, as well as NativeWind not supporting it, we decided to go with Flutter since it had great grid support and was just what we needed for a mobile app.
 
 ##### You can connect with me below:
